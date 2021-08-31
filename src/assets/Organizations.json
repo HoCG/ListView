@@ -1,0 +1,534 @@
+{
+    "result": [
+        {
+            "dept": [
+                {
+                    "dept": null,
+                    "title": "대표이사 직속",
+                    "key": "PP@A00319"
+                }, {
+                    "dept": null,
+                    "title": "이사회",
+                    "key": "PP@50130"
+                }, {
+                    "dept": null,
+                    "title": "감사",
+                    "key": "PP@50120"
+                }, {
+                    "dept": [
+                        {
+                            "dept": null,
+                            "title": "윤리경영팀",
+                            "key": "PP@10090"
+                        }
+                    ],
+                    "title": "윤리경영담당",
+                    "key": "PP@A00175"
+                }, {
+                    "dept": null,
+                    "title": "혁신추진팀",
+                    "key": "PP@A00228"
+                }, {
+                    "dept": null,
+                    "title": "인사팀",
+                    "key": "PP@10111"
+                }, {
+                    "dept": null,
+                    "title": "온라인사업팀",
+                    "key": "PP@A00308"
+                }, {
+                    "dept": [
+                        {
+                            "dept": null,
+                            "title": "경영관리본부 직속",
+                            "key": "PP@A00321"
+                        }, {
+                            "dept": null,
+                            "title": "내부통제팀",
+                            "key": "PP@A00288"
+                        }, {
+                            "dept": null,
+                            "title": "회계관리팀",
+                            "key": "PP@10112"
+                        }, {
+                            "dept": [
+                                {
+                                    "dept": null,
+                                    "title": "MBN",
+                                    "key": "PP@A00001"
+                                }
+                            ],
+                            "title": "경영기획팀",
+                            "key": "PP@A00053"
+                        }, {
+                            "dept": null,
+                            "title": "재무관리팀",
+                            "key": "PP@10113"
+                        }, {
+                            "dept": null,
+                            "title": "경영정보팀",
+                            "key": "PP@10050"
+                        }, {
+                            "dept": null,
+                            "title": "총무팀",
+                            "key": "PP@10115"
+                        }, {
+                            "dept": null,
+                            "title": "물류관리팀",
+                            "key": "PP@10114"
+                        }
+                    ],
+                    "title": "경영관리본부",
+                    "key": "PP@A00227"
+                }, {
+                    "dept": [
+                        {
+                            "dept": null,
+                            "title": "CSR팀",
+                            "key": "PP@A00226"
+                        }
+                    ],
+                    "title": "CSM부문",
+                    "key": "PP@A00225"
+                }, {
+                    "dept": [
+                        {
+                            "dept": null,
+                            "title": "의류사업부 직속",
+                            "key": "PP@A00320"
+                        }, {
+                            "dept": [
+                                {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "Fabric팀",
+                                            "key": "PP@A00218"
+                                        }, {
+                                            "dept": null,
+                                            "title": "디자인팀",
+                                            "key": "PP@A00217"
+                                        }
+                                    ],
+                                    "title": "디자인&기술 연구소",
+                                    "key": "PP@A00107"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "의류영업전략팀",
+                                            "key": "PP@A00156"
+                                        }, {
+                                            "dept": null,
+                                            "title": "최적화팀",
+                                            "key": "PP@A00313"
+                                        }
+                                    ],
+                                    "title": "SR부문",
+                                    "key": "PP@A00312"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "S&M 1본부 1팀",
+                                            "key": "PP@A00238"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 1본부 2팀",
+                                            "key": "PP@A00239"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 1본부 3팀",
+                                            "key": "PP@A00240"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 1본부 4팀",
+                                            "key": "PP@A00241"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 1본부 5팀",
+                                            "key": "PP@A00242"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 1본부 6팀",
+                                            "key": "PP@A00243"
+                                        }
+                                    ],
+                                    "title": "S&M 1본부",
+                                    "key": "PP@A00237"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "S&M 2본부 1팀",
+                                            "key": "PP@A00247"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 2본부 2팀",
+                                            "key": "PP@A00248"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 2본부 3팀",
+                                            "key": "PP@A00249"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 2본부 4팀",
+                                            "key": "PP@A00250"
+                                        }
+                                    ],
+                                    "title": "S&M 2본부",
+                                    "key": "PP@A00246"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "S&M 3본부 1팀",
+                                            "key": "PP@A00254"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 3본부 2팀",
+                                            "key": "PP@A00255"
+                                        }, {
+                                            "dept": null,
+                                            "title": "S&M 3본부 3팀",
+                                            "key": "PP@A00318"
+                                        }
+                                    ],
+                                    "title": "S&M 3본부",
+                                    "key": "PP@A00252"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "인니영업1팀",
+                                            "key": "PP@A00213"
+                                        }, {
+                                            "dept": null,
+                                            "title": "인니영업2팀",
+                                            "key": "PP@A00214"
+                                        }
+                                    ],
+                                    "title": "S&M 4본부",
+                                    "key": "PP@A00051"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "품질경영팀",
+                                            "key": "PP@A00009"
+                                        }, {
+                                            "dept": null,
+                                            "title": "PQS VN팀",
+                                            "key": "PP@30301"
+                                        }, {
+                                            "dept": null,
+                                            "title": "PQS ID팀",
+                                            "key": "PP@30302"
+                                        }
+                                    ],
+                                    "title": "품질관리부문",
+                                    "key": "PP@A00310"
+                                }
+                            ],
+                            "title": "영업총괄",
+                            "key": "PP@A00220"
+                        }, {
+                            "dept": [
+                                {
+                                    "dept": null,
+                                    "title": "자재물류팀",
+                                    "key": "PP@A00002"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "[SSC] Admin",
+                                            "key": "PP@A00286"
+                                        }, {
+                                            "dept": null,
+                                            "title": "[SSC] VTC",
+                                            "key": "PP@A00285"
+                                        }, {
+                                            "dept": null,
+                                            "title": "[SSC] POMS",
+                                            "key": "PP@A00287"
+                                        }, {
+                                            "dept": null,
+                                            "title": "[SSC] IT",
+                                            "key": "PP@A00194"
+                                        }, {
+                                            "dept": null,
+                                            "title": "[SSC] Trade",
+                                            "key": "PP@A00183"
+                                        }, {
+                                            "dept": null,
+                                            "title": "[SSC] Accounting",
+                                            "key": "PP@A00184"
+                                        }
+                                    ],
+                                    "title": "베트남SSC",
+                                    "key": "PP@A00012"
+                                }, {
+                                    "dept": null,
+                                    "title": "PPJ",
+                                    "key": "PP@A00067"
+                                }, {
+                                    "dept": null,
+                                    "title": "하노이사무소",
+                                    "key": "PP@60500"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": null,
+                                            "title": "[HCM] ADMIN",
+                                            "key": "PP@A00168"
+                                        }
+                                    ],
+                                    "title": "호치민사무소",
+                                    "key": "PP@A00126"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "P&O 1부문 1팀",
+                                                    "key": "PP@A00260"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "P&O 1부문 3팀",
+                                                    "key": "PP@A00262"
+                                                }
+                                            ],
+                                            "title": "P&O 1부문",
+                                            "key": "PP@A00290"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "P&O 2부문 1팀",
+                                                    "key": "PP@A00265"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "P&O 2부문 2팀",
+                                                    "key": "PP@A00266"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "P&O 2부문 3팀",
+                                                    "key": "PP@A00267"
+                                                }
+                                            ],
+                                            "title": "P&O 2부문",
+                                            "key": "PP@A00291"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "P&O 3부문 1팀",
+                                                    "key": "PP@A00258"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "P&O 3부문 2팀",
+                                                    "key": "PP@A00259"
+                                                }
+                                            ],
+                                            "title": "P&O 3부문",
+                                            "key": "PP@AA00292"
+                                        }, {
+                                            "dept": null,
+                                            "title": "TD팀",
+                                            "key": "PP@40141"
+                                        }
+                                    ],
+                                    "title": "P&O본부",
+                                    "key": "PP@A00257"
+                                }, {
+                                    "dept": [
+                                        {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "MIP HQ팀",
+                                                    "key": "PP@A00198"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "MIP VN팀",
+                                                    "key": "PP@A00199"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "MIP ID팀",
+                                                    "key": "PP@A00200"
+                                                }
+                                            ],
+                                            "title": "MIP부문",
+                                            "key": "PP@A00137"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "[VPA] P&O Department 2 team 2",
+                                                    "key": "PP@A00309"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "[VPA] S&M Division 1 Team 4",
+                                                    "key": "PP@A00316"
+                                                }
+                                            ],
+                                            "title": "VPA",
+                                            "key": "PP@60101"
+                                        }, {
+                                            "dept": null,
+                                            "title": "VPI",
+                                            "key": "PP@60300"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "VPW 1공장",
+                                                    "key": "PP@A00115"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "VPW 2공장",
+                                                    "key": "PP@A00116"
+                                                }
+                                            ],
+                                            "title": "VPW",
+                                            "key": "PP@60402"
+                                        }, {
+                                            "dept": null,
+                                            "title": "PWW",
+                                            "key": "PP@60403"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "VPT 1공장",
+                                                    "key": "PP@A00201"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "VPT 2공장",
+                                                    "key": "PP@A00202"
+                                                }
+                                            ],
+                                            "title": "VPT",
+                                            "key": "PP@A00068"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "[VPN] P&O Department 2 team 3",
+                                                    "key": "PP@A00292"
+                                                }
+                                            ],
+                                            "title": "VPN",
+                                            "key": "PP@A00099"
+                                        }, {
+                                            "dept": null,
+                                            "title": "PPN",
+                                            "key": "PP@60700"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "NPK 1공장",
+                                                    "key": "PP@A00118"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "NPK 2공장",
+                                                    "key": "PP@A00119"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "NPK-TD",
+                                                    "key": "PP@A00236"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "[NPK] P&O Department 2 team 1",
+                                                    "key": "PP@A00304"
+                                                }
+                                            ],
+                                            "title": "NPK",
+                                            "key": "PP@61100"
+                                        }, {
+                                            "dept": [
+                                                {
+                                                    "dept": null,
+                                                    "title": "NPC 1공장",
+                                                    "key": "PP@A00120"
+                                                }, {
+                                                    "dept": null,
+                                                    "title": "NPC 2공장",
+                                                    "key": "PP@A00121"
+                                                }
+                                            ],
+                                            "title": "NPC",
+                                            "key": "PP@A00057"
+                                        }, {
+                                            "dept": null,
+                                            "title": "NPB",
+                                            "key": "PP@A00066"
+                                        }, {
+                                            "dept": null,
+                                            "title": "YPI",
+                                            "key": "PP@61201"
+                                        }, {
+                                            "dept": null,
+                                            "title": "기술연구소",
+                                            "key": "PP@A00224"
+                                        }
+                                    ],
+                                    "title": "생산본부",
+                                    "key": "PP@A99999"
+                                }
+                            ],
+                            "title": "운영총괄",
+                            "key": "PP@A00171"
+                        }
+                    ],
+                    "title": "의류사업부",
+                    "key": "PP@A00155"
+                }, {
+                    "dept": [
+                        {
+                            "dept": null,
+                            "title": "Insulation마케팅팀",
+                            "key": "PP@A00162"
+                        }, {
+                            "dept": null,
+                            "title": "천안공장",
+                            "key": "PP@70104"
+                        }, {
+                            "dept": null,
+                            "title": "NPA프라우덴",
+                            "key": "PP@61000"
+                        }, {
+                            "dept": null,
+                            "title": "VINA프라우덴",
+                            "key": "PP@61300"
+                        }, {
+                            "dept": null,
+                            "title": "YPA",
+                            "key": "PP@A00069"
+                        }
+                    ],
+                    "title": "Insulation사업본부",
+                    "key": "PP@50100"
+                }
+            ],
+            "title": "대표이사",
+            "key": "PP@10005"
+        }
+    ],
+    "message": "",
+    "status": "OK",
+    "info": [
+        {
+            "title": "기준시점",
+            "value": "2021.08",
+            "key": "baseYmd"
+        }, {
+            "title": "비교시점",
+            "value": "2020.08",
+            "key": "compareYmd"
+        }
+    ]
+}
